@@ -1,2 +1,2 @@
 # p5j5_hosting
-Site to host my p5.j5 sketches
+This site is created to host my p5.js sketches without the new banner they added recently to the embedded tag.
